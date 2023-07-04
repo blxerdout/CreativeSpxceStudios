@@ -1,0 +1,32 @@
+.welcomeMessage {
+    color: whitesmoke;
+    font-size: 75px;
+    font-family: fantasy;
+    margin-top: -1000px;
+    padding-left: 500px;
+    padding-top: 500px;
+    
+}
+    
+body {
+    background-color: black;
+}
+
+.back-image {
+  width: 2000px;
+  height: 1000px;
+  margin: 0 auto;
+   
+  background-image: url(/creativespxce.com/images/deepSpace.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100px;
+}
+
+.mailing-list {
+  color: whitesmoke;
+  font-size: 15px;
+  padding-left: 500px;
+}
+
+
