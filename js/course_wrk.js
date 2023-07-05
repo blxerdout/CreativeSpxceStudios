@@ -1,4 +1,4 @@
-var counter = 3;
+/*var counter = 3;
 
 while (counter > 0) {
     console.log(counter);
@@ -16,7 +16,7 @@ for(var i = 1; i<= 3; i++) {
     for(var j = 1; j <=5; j++)  {
         console.log("Week " + i + "day " +j)
     }
-}*/
+}
 
 for(var wholeNum = 1; wholeNum <= 5; wholeNum++) {
     
@@ -45,4 +45,4 @@ for (var i = 0; i < 7; i++) {
 
 for(var i = 5; i < 200; i++) {
     console.log("I remember.")
-}
+}*/
