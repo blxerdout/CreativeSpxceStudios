@@ -1,9 +1,12 @@
+'use strict';
+
+
 console.log("hello world")
 console.log("People Soft")
  var test = typeof(true)
  console.log(test)
 
-
+ 
  var car = {};
  car.milage = 98765;
  car.color = "red";
