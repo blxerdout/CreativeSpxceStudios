@@ -45,3 +45,19 @@ var virtualPet = {
 console.log(virtualPet.sleepy) // true
 virtualPet.nap()
 console.log(virtualPet.sleepy) // false
+
+var newHouse = {};
+newHouse.address = "1000 Main Street New York NY, 12345";
+newHouse.layout = "2 Story single Family"
+newHouse.price = "$200,000"
+console.log(newHouse)
+
+newHouse.homeForsale = function() {
+   console.log("This home is forsale.")
+}
+
+newHouse.homeSold = function () {
+   console.log("This home has been sold.")
+}
+console.log(newHouse)
+newHouse.homeForsale()
